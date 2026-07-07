@@ -14,7 +14,7 @@ local image = Instance.new("ImageLabel")
 image.Size = UDim2.new(0, 200, 0, 200)
 image.Position = UDim2.new(0.5, -100, 0.5, -100)
 image.BackgroundTransparency = 1
-image.Image = "https://i.ibb.co/3v2G6Lw/roblox.png" -- РАБОЧАЯ КАРТИНКА
+image.Image = "https://ibb.co/V0J1w9v6" -- РАБОЧАЯ КАРТИНКА
 image.Parent = gui
 
 -- Если картинка не загрузилась — показываем текст
